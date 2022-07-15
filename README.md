@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Chat App UI</h1>
-<h3 align="center">A Simple And Asthetic Chat App UI </h3>
+<h3 align="center">A Simple And Aesthetic Chat App UI </h3>
 
 <img align="right" alt="Coding" width="200" src="https://cdn.stateofthedapps.com/dapps/chatex/logo_chatex_888458912cb6159818b7705f0ad21e92161685460d4a1bb2e04a1f272b21e409_opti.png">
 
